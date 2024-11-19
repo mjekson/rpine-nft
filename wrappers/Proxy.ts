@@ -37,13 +37,13 @@ export class Proxy implements Contract {
         });
     }
 
-    async sendBuy(provider: ContractProvider, via: Sender, value: bigint, queryId?: number, refAddress?: Address) {
+    async sendBuy(provider: ContractProvider, via: Sender, value: bigint, refAddress?: Address, queryId?: number) {
         let body = beginCell()
             .storeUint(0xaf750d34, 32)
             .storeUint(queryId ?? 0, 64)
 
-        if (refAddress !== undefined) {
-            body.storeAddress(refAddress)
+        if (!!refAddress) {
+            body.storeAddress(refAddress || null)
         }
         await provider.internal(via, {
             value,
