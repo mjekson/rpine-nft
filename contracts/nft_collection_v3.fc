@@ -174,13 +174,22 @@ slice calculate_nft_item_address(int wc, cell state_init) inline {
         return ();
     }
     if (op == 7) { ;; deploy new nft with base content
+        slice to_address = in_msg_body~load_msg_addr();
+        int amount = in_msg_body~load_coins();
+        in_msg_body.end_parse();
         var nft_content = begin_cell()
                       .store_uint(0x01, 8)
                       .store_slice(base_content.begin_parse())
                       .store_slice(number_to_slice(next_item_index))
                       .store_slice(".json");
 
-        deploy_nft_item(next_item_index, nft_item_code, in_msg_body~load_coins(), nft_content.end_cell());
+        var nft_message = begin_cell()
+            .store_slice(to_address)
+            .store_ref(nft_content)
+            .store_slice(my_address()) ;; editor_address
+            .store_slice(second_owner_address); ;; authority_address
+
+        deploy_nft_item(next_item_index, nft_item_code, amount, nft_message.end_cell());
 
         next_item_index += 1;
         save_data(owner_address, next_item_index, base_content, content, nft_item_code, royalty_params, second_owner_address);

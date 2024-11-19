@@ -6,5 +6,7 @@ const COLLECTION_ADDRESS = Address.parse('')
 
 export async function run(provider: NetworkProvider) {
     const nftCollection = provider.open(NftCollectionV3.createFromAddress(COLLECTION_ADDRESS));
-    await nftCollection.sendDeployNftWithBaseContent(provider.sender())
+    await nftCollection.sendDeployNftWithBaseContent(provider.sender(), 
+        Address.parse('') // to address
+    )
 }

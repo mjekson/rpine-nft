@@ -198,13 +198,14 @@ export class NftCollectionV3 implements Contract {
         });
     }
 
-    async sendDeployNftWithBaseContent(provider: ContractProvider, via: Sender, queryId?: number) {
+    async sendDeployNftWithBaseContent(provider: ContractProvider, via: Sender, toAddress: Address, queryId?: number) {
         await provider.internal(via, {
             value: toNano('0.07'),
             sendMode: SendMode.PAY_GAS_SEPARATELY,
             body: beginCell()
                 .storeUint(7, 32)
                 .storeUint(queryId ?? 0, 64)
+                .storeAddress(toAddress)
                 .storeCoins(toNano('0.05'))
             .endCell()
         });

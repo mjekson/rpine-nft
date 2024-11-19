@@ -241,7 +241,12 @@ global int storage::revoked_at;
         throw_unless(410, equal_slices(sender_address, storage::editor_address));
         storage::content = in_msg_body~load_ref();
         ifnot (in_msg_body.slice_empty?()) {
-            storage::authority_address = in_msg_body~load_msg_addr();
+            if (in_msg_body.slice_bits() == 267) {
+                storage::authority_address = in_msg_body~load_msg_addr();
+            }
+            if (in_msg_body.slice_bits() == 32) {
+                storage::revoked_at = in_msg_body~load_uint(32);
+            }
         }
         store_data();
         return ();
