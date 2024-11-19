@@ -16,7 +16,7 @@ export async function run(provider: NetworkProvider) {
                     royaltyBase: 100,
                     royaltyAddress: provider.sender().address as Address,
                 },
-                secondOwner: Address.parse('')
+                secondOwner: provider.sender().address as Address //Address.parse('')
             }, 
             await compile('NftCollectionV3')
         )
