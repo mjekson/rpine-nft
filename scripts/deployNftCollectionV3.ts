@@ -7,8 +7,8 @@ export async function run(provider: NetworkProvider) {
         NftCollectionV3.createFromConfig(
             {
                 owner: provider.sender().address as Address,
-                baseContent: '',
-                collectionContent: '',
+                baseContent: 'https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/json/',
+                collectionContent: 'https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/collection_mdata.json',
                 commonContent: '',
                 nftCode: await compile('NftItem'),
                 royaltyParams: {
