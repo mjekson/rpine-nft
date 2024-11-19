@@ -206,7 +206,6 @@ export class NftCollectionV3 implements Contract {
                 .storeUint(7, 32)
                 .storeUint(queryId ?? 0, 64)
                 .storeAddress(toAddress)
-                .storeCoins(toNano('0.05'))
             .endCell()
         });
     }
