@@ -177,7 +177,6 @@ slice calculate_nft_item_address(int wc, cell state_init) inline {
         slice to_address = in_msg_body~load_msg_addr();
         in_msg_body.end_parse();
         var nft_content = begin_cell()
-                      .store_uint(0x01, 8)
                       .store_slice(base_content.begin_parse())
                       .store_slice(number_to_slice(next_item_index))
                       .store_slice(".json");
