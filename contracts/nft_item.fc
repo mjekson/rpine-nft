@@ -304,12 +304,12 @@ slice get_editor_address() method_id {
     return storage::editor_address;
 }
 
-slice get_authority_address() method_id {
+slice get_nft_authority_address() method_id {
     load_data();
     return storage::authority_address;
 }
 
-int get_revoked_time() method_id {
+int get_nft_revoked_time() method_id {
     load_data();
     return storage::revoked_at;
 }
