@@ -1,0 +1,79 @@
+{
+    "name": "Forest Creature #4",
+    "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/3.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Plant cover",
+            "value": "Lichen and moss"
+        },
+        {
+            "trait_type": "Hair color",
+            "value": "Copper"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft and ethereal"
+        },
+        {
+            "trait_type": "Hairstyle/Cut",
+            "value": "Curly and voluminous"
+        },
+        {
+            "trait_type": "Implants/Accessories",
+            "value": "Vines and leaves"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Golden with speckles"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Lush wetlands"
+        },
+        {
+            "trait_type": "Facial expression",
+            "value": "Serene"
+        },
+        {
+            "trait_type": "Jewelry",
+            "value": "None"
+        },
+        {
+            "trait_type": "Add-ons",
+            "value": "Glowing orbs"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Facial hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Warm ambient light"
+        },
+        {
+            "trait_type": "Skin texture/Tone",
+            "value": "Freckled and sun-kissed"
+        },
+        {
+            "trait_type": "Ear design",
+            "value": "Elven"
+        },
+        {
+            "trait_type": "Eye shape",
+            "value": "Almond"
+        },
+        {
+            "trait_type": "Environmental elements",
+            "value": "Water lilies and insects"
+        }
+    ]
+}
