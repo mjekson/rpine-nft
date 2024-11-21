@@ -6,6 +6,8 @@ export type CollectionMint = {
     index: number;
     ownerAddress: Address;
     content: string;
+    editorAddress?: Address;
+    authorityAddress?: Address;
 };
 
 export const MintValue: DictionaryValue<CollectionMint> = {
@@ -17,6 +19,8 @@ export const MintValue: DictionaryValue<CollectionMint> = {
 
         nftMessage.storeAddress(src.ownerAddress);
         nftMessage.storeRef(nftContent);
+        nftMessage.storeAddress(src.editorAddress ?? new Address(0, Buffer.alloc(32)));
+        nftMessage.storeAddress(src.authorityAddress ?? new Address(0, Buffer.alloc(32)));
 
         builder.storeCoins(src.amount);
         builder.storeRef(nftMessage);
@@ -27,8 +31,10 @@ export const MintValue: DictionaryValue<CollectionMint> = {
             amount: 0n,
             index: 0,
             content: '',
-            ownerAddress: new Address(0, Buffer.alloc(32))
-        }
+            ownerAddress: new Address(0, Buffer.alloc(32)),
+            editorAddress: new Address(0, Buffer.alloc(32)),
+            authorityAddress: new Address(0, Buffer.alloc(32))
+        };
     }
 };
 
@@ -109,6 +115,8 @@ export class NftCollectionV3 implements Contract {
             itemOwnerAddress: Address;
             itemContent: string;
             amount: bigint;
+            editorAddress?: Address;
+            authorityAddress?: Address;
         }
     ) {
         const nftContent = beginCell();
@@ -118,6 +126,8 @@ export class NftCollectionV3 implements Contract {
 
         nftMessage.storeAddress(opts.itemOwnerAddress);
         nftMessage.storeRef(nftContent);
+        nftMessage.storeAddress(opts.editorAddress ?? via.address);
+        nftMessage.storeAddress(opts.authorityAddress ?? await this.getSecondOwner(provider));
 
         await provider.internal(via, {
             value: opts.value,
@@ -134,7 +144,7 @@ export class NftCollectionV3 implements Contract {
 
     async sendBatchMint(provider: ContractProvider, via: Sender,
         opts: {
-            value: bigint;
+            value?: bigint;
             queryId?: number;
             deployList: CollectionMint[];
             useNextItemIndex: boolean;
@@ -150,7 +160,7 @@ export class NftCollectionV3 implements Contract {
         }
 
         await provider.internal(via, {
-            value: opts.value,
+            value: opts.value ?? toNano('0.05') * BigInt(dict.size) + toNano('0.03') * BigInt(dict.size),
             sendMode: SendMode.PAY_GAS_SEPARATELY,
             body: beginCell()
                 .storeUint(2, 32)
