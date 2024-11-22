@@ -1,7 +1,7 @@
 {
-    "name": "Forest Creature #4",
+    "name": "Forest Creature #5",
     "description": "Each NFT from the 'RPine World of Future' collection is your key to the RPine DEX aggregator ecosystem, offering maximum cashback, referral rewards, and exclusive services. Owning this NFT unlocks unique opportunities within the innovative world of RPine.",
-    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/3.png",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/4.png",
     "attributes": [
         {
             "trait_type": "Gender",
@@ -9,43 +9,43 @@
         },
         {
             "trait_type": "Plant cover",
-            "value": "Moderate"
+            "value": "Heavy"
         },
         {
             "trait_type": "Hair color",
-            "value": "Green with natural highlights"
+            "value": "Silver"
         },
         {
             "trait_type": "Lighting",
-            "value": "Soft, natural"
+            "value": "Soft, natural with golden highlights"
         },
         {
             "trait_type": "Hairstyle/Cut",
-            "value": "Short, with moss and leaves"
+            "value": "Braided with floral accents"
         },
         {
             "trait_type": "Implants/Accessories",
-            "value": "Cybernetic implants, glowing elements"
+            "value": "Floral and ethereal, glowing accents"
         },
         {
             "trait_type": "Eyes",
-            "value": "Bright, glowing teal"
+            "value": "Bright, glowing blue"
         },
         {
             "trait_type": "Background",
-            "value": "Forest with soft lighting"
+            "value": "Meadow with flowers"
         },
         {
             "trait_type": "Facial expression",
-            "value": "Serene"
+            "value": "Peaceful"
         },
         {
             "trait_type": "Jewelry",
-            "value": "None"
+            "value": "Floral crown, intricate face jewels"
         },
         {
             "trait_type": "Add-ons",
-            "value": "Moss, flowers, plants"
+            "value": "Wings, vines, butterflies"
         },
         {
             "trait_type": "Pet",
@@ -57,23 +57,23 @@
         },
         {
             "trait_type": "Lighting",
-            "value": "Soft, ambient light"
+            "value": "Soft, ethereal glow"
         },
         {
             "trait_type": "Skin texture/Tone",
-            "value": "Smooth, synthetic with natural elements"
+            "value": "Smooth, radiant"
         },
         {
             "trait_type": "Ear design",
-            "value": "Cat-like"
+            "value": "Elfin"
         },
         {
             "trait_type": "Eye shape",
-            "value": "Large, rounded"
+            "value": "Almond, mystical"
         },
         {
             "trait_type": "Environmental elements",
-            "value": "Moss, small plants"
+            "value": "Flowers, butterflies, vines"
         }
     ]
 }
