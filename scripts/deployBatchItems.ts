@@ -200,7 +200,7 @@ export async function run(provider: NetworkProvider) {
             },
             { 
                 amount: toNano('0.05'),
-                ownerAddress: Address.parse('UQAULcjDZ4TK9huUxR4Vl_Tfa8JRooU3bhvPrmHJHZIPGTTX'),
+                ownerAddress: Address.parse('UQBXma-WtfEoDkKJ5W_f00LSohE1q0cJ7hXyfcmcnPh_n6sn'),
                 editorAddress: provider.sender().address as Address,
                 authorityAddress: secondOwnerAddress,
                 content: 'https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/json/23.json',
@@ -208,7 +208,7 @@ export async function run(provider: NetworkProvider) {
             },
             { 
                 amount: toNano('0.05'),
-                ownerAddress: Address.parse('UQAULcjDZ4TK9huUxR4Vl_Tfa8JRooU3bhvPrmHJHZIPGTTX'),
+                ownerAddress: Address.parse('UQBXma-WtfEoDkKJ5W_f00LSohE1q0cJ7hXyfcmcnPh_n6sn'),
                 editorAddress: provider.sender().address as Address,
                 authorityAddress: secondOwnerAddress,
                 content: 'https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/json/24.json',
@@ -216,7 +216,7 @@ export async function run(provider: NetworkProvider) {
             },
             { 
                 amount: toNano('0.05'),
-                ownerAddress: Address.parse('UQAULcjDZ4TK9huUxR4Vl_Tfa8JRooU3bhvPrmHJHZIPGTTX'),
+                ownerAddress: Address.parse('UQAELlort_M5BKYtCYtenHUtVPxu0x2H8w_b5wCkDfTHTVuo'),
                 editorAddress: provider.sender().address as Address,
                 authorityAddress: secondOwnerAddress,
                 content: 'https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/json/25.json',
@@ -224,7 +224,7 @@ export async function run(provider: NetworkProvider) {
             },
             { 
                 amount: toNano('0.05'),
-                ownerAddress: Address.parse('UQAULcjDZ4TK9huUxR4Vl_Tfa8JRooU3bhvPrmHJHZIPGTTX'),
+                ownerAddress: Address.parse('UQAELlort_M5BKYtCYtenHUtVPxu0x2H8w_b5wCkDfTHTVuo'),
                 editorAddress: provider.sender().address as Address,
                 authorityAddress: secondOwnerAddress,
                 content: 'https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/json/26.json',
@@ -232,7 +232,7 @@ export async function run(provider: NetworkProvider) {
             },
             { 
                 amount: toNano('0.05'),
-                ownerAddress: Address.parse('UQAULcjDZ4TK9huUxR4Vl_Tfa8JRooU3bhvPrmHJHZIPGTTX'),
+                ownerAddress: Address.parse('UQDUbfFHGlLJhwsazjB7Ly63BPdQxaKuU82lVPE1nB95NNiF'),
                 editorAddress: provider.sender().address as Address,
                 authorityAddress: secondOwnerAddress,
                 content: 'https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/json/27.json',
