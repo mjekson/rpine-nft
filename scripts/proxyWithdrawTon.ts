@@ -2,7 +2,7 @@ import { Address, toNano } from '@ton/core';
 import { Proxy } from '../wrappers/Proxy';
 import { NetworkProvider } from '@ton/blueprint';
 
-const PROXY_ADDRESS = Address.parse('EQDk5MCKONMMwXSJc6ZmnfwVmyVgt4-qfvumIK2aUlesQhVP'); //testnet proxy
+const PROXY_ADDRESS = Address.parse('EQC7mq3O8EvQlUVyy3FPqOMEaD7qXyA9tEW7pnSedpnqhv54');
 
 export async function run(provider: NetworkProvider) {
     const proxy = provider.open(

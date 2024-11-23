@@ -2,7 +2,7 @@ import { Address, toNano } from '@ton/core';
 import { compile, NetworkProvider } from '@ton/blueprint';
 import { NftCollectionV3 } from '../wrappers/NftCollectionV3';
 
-const COLLECTION_ADDRESS = Address.parse('EQAPkxIsDFz2sm1mQv6NIVghZD7HYmA_ld7wKtovtnMNZ9lq'); //testnet
+const COLLECTION_ADDRESS = Address.parse('EQAPkxIsDFz2sm1mQv6NIVghZD7HYmA_ld7wKtovtnMNZ9lq');
 
 export async function run(provider: NetworkProvider) {
     const nftCollectionV3 = provider.open(
