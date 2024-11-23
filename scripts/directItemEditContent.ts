@@ -3,7 +3,7 @@ import { compile, NetworkProvider } from '@ton/blueprint';
 import { NftItem } from '../wrappers/NftItem';
 
 const nftItemAddress = Address.parse('EQAabeHkDXzZMze8OLxSVUBmELS7dflLs_qvozeHZLQBWKz_');
-const newContentUrl = 'https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/json/3.1.json';
+const newContentUrl = 'https://raw.githubusercontent.com/r-pine/rpine-nft/refs/heads/master/scripts/forest-collection/items/json/3.1.json';
 const newAuthorityAddress = undefined;
 const newRevokedAt = undefined;
 
