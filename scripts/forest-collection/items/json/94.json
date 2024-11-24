@@ -1,0 +1,47 @@
+{
+    "name": "Digital Blossom #94",
+    "description": "This compelling image blends the harmony of nature and technology. The figure's face is adorned with verdant leaves, while her body is intricately wired with advanced circuitry, creating a fascinating fusion of organic and mechanical elements. The glowing cyan eyes and high-tech ear devices emphasize the advanced technological nature of this character, while the greenery and serene expression suggest a deep connection with nature. This image represents a perfect balance between the digital and the organic, highlighting the future of a world where both coexist.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/94.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Short, messy with leafy crown"
+        },
+        {
+            "trait_type": "Skin tone",
+            "value": "Freckled"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glowing cyan"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Serene"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Cybernetic suit"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Lush forest"
+        },
+        {
+            "trait_type": "Technology",
+            "value": "Advanced circuitry and wires"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Leaf crown, cybernetic ear pieces"
+        },
+        {
+            "trait_type": "Environment",
+            "value": "Fusion of nature and digital technology"
+        }
+    ]
+}

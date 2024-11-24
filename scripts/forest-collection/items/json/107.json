@@ -1,0 +1,43 @@
+{
+    "name": "Nature's Embrace #107",
+    "description": "A close-up portrait of a character deeply entwined with nature, her face adorned with glowing vines and purple flowers. Her hair, a soft lavender hue, is complemented by organic patterns across her face and body. The soft glow emanating from the plant life suggests a mystical energy, while her gentle expression evokes tranquility and curiosity. She is a hybrid of both organic and mechanical, with her intricate outfit and glowing tech patterns revealing her connection to the forest's tech-infused life force.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/107.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Glowing vine-like patterns with purple flowers"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Soft lavender, slightly tousled"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Tactical, nature-inspired outfit with glowing patterns"
+        },
+        {
+            "trait_type": "Setting",
+            "value": "Mystical forest with soft lighting"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bright green with a mystical glow"
+        },
+        {
+            "trait_type": "Mood",
+            "value": "Calm, curious, and connected with nature"
+        },
+        {
+            "trait_type": "Companion",
+            "value": "N/A"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Purple flowers and glowing foliage"
+        }
+    ]
+}

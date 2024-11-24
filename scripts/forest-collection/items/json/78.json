@@ -1,0 +1,51 @@
+{
+    "name": "Forest Protector #78",
+    "description": "A stoic figure emerging from the depths of an ancient forest, their form blending seamlessly with the natural world. Their skin, marked by the texture of cracked bark, radiates an otherworldly energy. Lush greenery and moss intertwine with their body, while glowing purple eyes illuminate the surrounding woods, signaling their connection to the forest's mystical power. This entity stands as a guardian, embodying both the resilience of the trees and the flowing energy of the natural world.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/78.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Vines and leaves forming a natural crown"
+        },
+        {
+            "trait_type": "Skin tone",
+            "value": "Cracked bark with glowing purple veins"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Nature-infused bio-tech armor"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glowing purple"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Serene, yet intense"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Leaves, vines, moss"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Lush forest with soft ethereal lighting"
+        },
+        {
+            "trait_type": "Technology",
+            "value": "Bioluminescent energy flowing through organic fibers"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Wood, leaves, moss"
+        },
+        {
+            "trait_type": "Environment",
+            "value": "Ancient forest full of life and magic"
+        }
+    ]
+}

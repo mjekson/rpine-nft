@@ -1,0 +1,47 @@
+{
+    "name": "Leaflight Guardian #102",
+    "description": "This captivating figure represents the fusion of nature and technology, with delicate branches and glowing neon leaves forming intricate patterns across the character's face and body. Their eyes are a striking icy blue, emphasizing their connection to a futuristic, elemental force. Their skin glows with a golden hue, further enhanced by the soft, organic tech that wraps their form. The setting is a lush, vibrant forest that serves as both home and sanctuary, where nature and digital energy coexist in harmony.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/102.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Braided, adorned with natural elements"
+        },
+        {
+            "trait_type": "Skin tone",
+            "value": "Golden, glowing"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bright, icy blue"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Calm, serene"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Nature-infused armor with organic tech"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Branch and leaf-like facial patterns"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Lush, vibrant forest"
+        },
+        {
+            "trait_type": "Technology",
+            "value": "Glowing circuitry resembling nature’s elements"
+        },
+        {
+            "trait_type": "Environment",
+            "value": "A balance of technology and nature"
+        }
+    ]
+}

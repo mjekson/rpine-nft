@@ -1,0 +1,51 @@
+{
+    "name": "Forest Spirit Guardian #74",
+    "description": "A forest spirit standing amidst the trees, their glowing skin and intricate vine-like adornments make them appear almost ethereal. Their white hair, adorned with leaves and glowing lights, symbolizes their connection to nature. The mysterious expression on their face hints at a deep understanding of the forest they protect, while their glowing eyes and otherworldly aura add to their mystical presence.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/74.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "White, short, styled"
+        },
+        {
+            "trait_type": "Skin tone",
+            "value": "Light with glowing accents"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Bare with glowing vine tattoos"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glowing white"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Serene and introspective"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Vines and leaves wrapped around body"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Forest with ambient glowing lights"
+        },
+        {
+            "trait_type": "Technology",
+            "value": "Subtle energy flow from glowing tattoos"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Organic and magical"
+        },
+        {
+            "trait_type": "Environment",
+            "value": "Mystical forest with natural light"
+        }
+    ]
+}

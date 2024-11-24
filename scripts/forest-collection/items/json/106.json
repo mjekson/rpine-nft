@@ -1,0 +1,43 @@
+{
+    "name": "Nature's Embrace #106",
+    "description": "A serene portrait of a character deeply connected with nature. Her glowing freckles and face adorned with foliage suggest a mystical relationship with the forest. Her bright eyes and soft features exude calm and strength, while the intricate green leaf vines around her face emphasize the theme of growth and harmony. She wears a tactical, nature-inspired outfit, blending the wild with technology. The soft lighting and natural setting create a peaceful and enchanting atmosphere.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/106.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Freckles with glowing, nature-themed markings"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Long, white, slightly tousled"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Tactical green outfit with natural accents"
+        },
+        {
+            "trait_type": "Setting",
+            "value": "Forest with soft sunlight filtering through trees"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bright, natural green"
+        },
+        {
+            "trait_type": "Mood",
+            "value": "Calm, connected, and serene"
+        },
+        {
+            "trait_type": "Companion",
+            "value": "N/A"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Foliage and glowing markings"
+        }
+    ]
+}

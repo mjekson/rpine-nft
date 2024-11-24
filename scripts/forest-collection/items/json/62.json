@@ -1,0 +1,67 @@
+{
+    "name": "Nature-Cyber Hybrid Avatar #62",
+    "description": "Presenting an exclusive collectible from the RPine DEX aggregator ecosystem, this avatar merges the beauty of nature with cybernetic enhancements. Adorned with glowing vines, a braided hairstyle, and a serene expression, it unlocks special privileges and rewards within the RPine ecosystem. Own this unique piece of digital art today.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/62.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Silver with braided style and floral accents"
+        },
+        {
+            "trait_type": "Skin tone",
+            "value": "Fair with glowing freckles"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Nature-themed armor with moss and vine elements"
+        },
+        {
+            "trait_type": "Headpiece",
+            "value": "Floral crown with glowing plants"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bright green with glowing elements"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft golden glow emanating from plants"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Serene, with a calm demeanor"
+        },
+        {
+            "trait_type": "Neck Implant",
+            "value": "Cybernetic implant with glowing circuitry"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Lush, green forest with soft bokeh light"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Glow-infused tech bracelet"
+        },
+        {
+            "trait_type": "Jewelry",
+            "value": "Minimal, nature-inspired"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Metallic and organic fusion"
+        },
+        {
+            "trait_type": "Tech Integration",
+            "value": "Integrated glowing vines and bio-circuitry"
+        }
+    ]
+}

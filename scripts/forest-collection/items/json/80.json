@@ -1,0 +1,51 @@
+{
+    "name": "Mystical Bloom #80",
+    "description": "A serene and enchanting character, adorned in a crown of lush moss and vibrant purple flowers. Their skin glows with delicate patterns, reflecting the interconnectedness of nature. Soft, radiant lights pulse from their body, while their purple hair cascades gracefully, complemented by glowing accents. Their ethereal presence is both calming and magical, embodying the essence of a forest spirit. The background is filled with verdant foliage, bathed in soft, mystical light, creating an enchanting atmosphere.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/80.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Purple with glowing highlights"
+        },
+        {
+            "trait_type": "Skin tone",
+            "value": "Fair with glowing patterns"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Nature-inspired attire with floral and glowing accents"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glowing blue"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Gentle and serene"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Flower crown, nature-inspired jewelry"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Lush, glowing forest with vibrant flowers"
+        },
+        {
+            "trait_type": "Technology",
+            "value": "Glowing accents and bio-luminescent patterns"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Soft fabric, moss, and magical light"
+        },
+        {
+            "trait_type": "Environment",
+            "value": "Mystical forest with soft, ethereal lighting"
+        }
+    ]
+}

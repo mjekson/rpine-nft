@@ -1,0 +1,67 @@
+{
+    "name": "Forest Guardian #72",
+    "description": "A mystical character who embodies the harmony of nature and advanced technology. The guardian has braided silver hair adorned with delicate leaves and glowing vines, radiating an ethereal aura. Her glowing green eyes and intricate organic-tech armor reflect her deep connection with the forest. The setting features lush greenery and soft lighting, enhancing the magical ambiance.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/72.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Silver braided hair"
+        },
+        {
+            "trait_type": "Skin tone",
+            "value": "Fair with freckles"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Nature-inspired armor with glowing elements"
+        },
+        {
+            "trait_type": "Headpiece",
+            "value": "Leaf crown with glowing accents"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glowing green"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft forest light"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Serene and wise"
+        },
+        {
+            "trait_type": "Neck Implant",
+            "value": "Glowing vine-like cybernetic accents"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Lush green forest"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Leafy vine earrings and glowing gemstones"
+        },
+        {
+            "trait_type": "Jewelry",
+            "value": "Nature-based with glowing elements"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Organic materials fused with glowing technology"
+        },
+        {
+            "trait_type": "Tech Integration",
+            "value": "Glowing organic-tech fusion"
+        }
+    ]
+}

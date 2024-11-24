@@ -1,0 +1,47 @@
+{
+    "name": "Techno Seer #96",
+    "description": "This striking image features a female figure adorned with a mix of natural beauty and futuristic tech. She has curly hair, and her face is surrounded by glowing plant life, suggesting a harmonious fusion of nature and advanced technology. The flowing energy lines connecting her body to the plants and the flowers on her attire imply a symbiotic relationship between her and her environment. The intricate green light patterns on her face and chest emphasize this connection and highlight her role as a techno-seer.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/96.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Curly dark"
+        },
+        {
+            "trait_type": "Skin tone",
+            "value": "Dark with freckles"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Soft smile"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Futuristic attire with floral elements"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Glowing green plant lights"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Lush forest with vibrant foliage"
+        },
+        {
+            "trait_type": "Technology",
+            "value": "Energy-connected plants"
+        },
+        {
+            "trait_type": "Environment",
+            "value": "Nature and technology intertwined"
+        }
+    ]
+}

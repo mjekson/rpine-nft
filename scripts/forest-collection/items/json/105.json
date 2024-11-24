@@ -1,0 +1,43 @@
+{
+    "name": "Nature's Circuit #105",
+    "description": "This captivating image depicts a character in a harmonious blend of nature and technology. The character features glowing green circuitry intertwining with delicate plant life, creating a futuristic yet organic aesthetic. The soft green light emanates from the circuits, symbolizing a deep connection with the natural world. The character's facial markings and hairstyle add to the high-tech yet nature-infused vibe. Standing amidst a lush green environment, this figure exudes strength, intelligence, and a profound connection to both the digital and organic realms.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/105.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Intricate facial markings with glowing circuits"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Short, styled with a futuristic twist"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "High-tech suit with natural plant elements"
+        },
+        {
+            "trait_type": "Setting",
+            "value": "Lush forest with soft dappled sunlight"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glowing green, reflecting the tech-nature fusion"
+        },
+        {
+            "trait_type": "Mood",
+            "value": "Calm, connected, and technologically empowered"
+        },
+        {
+            "trait_type": "Companion",
+            "value": "N/A"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Glowing circuits, integrated with nature"
+        }
+    ]
+}

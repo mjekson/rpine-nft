@@ -1,0 +1,47 @@
+{
+    "name": "Night Striders #103",
+    "description": "This striking image depicts two futuristic warriors in an otherworldly desert landscape, illuminated by the soft glow of a large moon. Their faces are adorned with intricate metallic patterns and glowing circuitry, and their eyes are a captivating purple hue. They wear sleek, armored suits with glowing green accents, suggesting a blend of advanced technology and a fierce spirit. The desert's rugged terrain is highlighted in the background, adding to the feeling of resilience and strength.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/103.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Purple glowing"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Braided, with glowing metallic accents"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Futuristic armored suit"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Intricate glowing circuitry"
+        },
+        {
+            "trait_type": "Setting",
+            "value": "Desert landscape under a moonlit sky"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Glowing green accents on armor"
+        },
+        {
+            "trait_type": "Mood",
+            "value": "Resilient and fierce"
+        },
+        {
+            "trait_type": "Companion",
+            "value": "The second figure in the background, similar in appearance"
+        },
+        {
+            "trait_type": "Environment",
+            "value": "Desert with distant cacti and a glowing moon"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "name": "Techno Seer #95",
+    "description": "This captivating image portrays a fusion of youthful innocence and futuristic technology. The figure is adorned with advanced goggles that glow with green and orange lights, providing a stark contrast to the natural surroundings of a lush forest. Her pristine, freckled skin and simple yet futuristic attire create a sense of harmony between nature and high-tech innovation. The glowing elements of her goggles and the moss on her shoulders suggest that she exists in a world where technology and nature work together seamlessly.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/95.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Short blonde"
+        },
+        {
+            "trait_type": "Skin tone",
+            "value": "Fair with freckles"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Neutral"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Futuristic suit"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "High-tech glowing goggles"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Futuristic forest with urban structures"
+        },
+        {
+            "trait_type": "Technology",
+            "value": "Advanced goggles and integrated tech"
+        },
+        {
+            "trait_type": "Environment",
+            "value": "Nature and technology blend"
+        }
+    ]
+}

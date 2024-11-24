@@ -1,0 +1,67 @@
+{
+    "name": "Nature-Cyber Hybrid Avatar #63",
+    "description": "Presenting an exclusive collectible from the RPine DEX aggregator ecosystem, this avatar beautifully fuses nature with advanced technology. With a moss-infused neck implant, a headpiece adorned with blooming flowers, and glowing cybernetic elements, it embodies a harmony between organic life and technological advancement. Own this digital masterpiece and unlock special privileges within the RPine ecosystem.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/63.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Natural green with flowers and moss"
+        },
+        {
+            "trait_type": "Skin tone",
+            "value": "Olive with glowing freckles"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Nature-infused armor with moss and tech elements"
+        },
+        {
+            "trait_type": "Headpiece",
+            "value": "Flower crown with cybernetic enhancements"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bright green with glowing cybernetic implants"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft sunlight filtering through a forest"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Calm and thoughtful"
+        },
+        {
+            "trait_type": "Neck Implant",
+            "value": "Cybernetic with glowing moss"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Lush green forest with gentle sunlight"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "None"
+        },
+        {
+            "trait_type": "Jewelry",
+            "value": "Minimal, natural style"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Blended organic and metallic fusion"
+        },
+        {
+            "trait_type": "Tech Integration",
+            "value": "Integrated bio-circuitry with moss and flowers"
+        }
+    ]
+}

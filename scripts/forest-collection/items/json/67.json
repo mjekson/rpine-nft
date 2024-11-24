@@ -1,0 +1,67 @@
+{
+    "name": "Nature-Cyber Hybrid Avatar #67",
+    "description": "This avatar beautifully merges nature and technology, with cybernetic enhancements and vibrant foliage intricately woven into the design. The glowing, green elements complement the soft features of the character, representing the seamless fusion of life and technology in the RPine DEX aggregator collection.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/67.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Pink with leafy crown"
+        },
+        {
+            "trait_type": "Skin tone",
+            "value": "Light with cybernetic green glowing accents"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Futuristic armor intertwined with leaves and foliage"
+        },
+        {
+            "trait_type": "Headpiece",
+            "value": "Crown of greenery with integrated tech elements"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bright green glowing eyes"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Soft forest light with glowing cybernetic accents"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Serene and thoughtful"
+        },
+        {
+            "trait_type": "Neck Implant",
+            "value": "Cybernetic and nature-inspired with glowing lights"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Vibrant, lush forest with glowing light elements"
+        },
+        {
+            "trait_type": "Pet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Subtle but futuristic, with tech and nature fusion"
+        },
+        {
+            "trait_type": "Jewelry",
+            "value": "Minimalistic and nature-inspired"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Combination of organic textures and glowing tech components"
+        },
+        {
+            "trait_type": "Tech Integration",
+            "value": "Cybernetic and bioluminescent features fused with nature"
+        }
+    ]
+}

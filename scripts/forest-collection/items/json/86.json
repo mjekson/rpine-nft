@@ -1,0 +1,51 @@
+{
+    "name": "Digital Blossom #86",
+    "description": "This otherworldly figure embodies the balance between nature and technology. Her face is adorned with intricate glowing patterns and delicate, digital flora, while her long, braided hair is crowned with a mix of bioluminescent plants. The fusion of nature and artificial enhancements creates a beautiful, yet mysterious entity, standing serenely in a lush, verdant environment that mirrors the harmonious blend of the organic and the digital.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/86.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Long, braided with glowing accents"
+        },
+        {
+            "trait_type": "Skin tone",
+            "value": "Pale green with a shimmering, digital overlay"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Futuristic armor adorned with natural elements"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Vivid green with ethereal, glowing details"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Serene and contemplative"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Glowing digital jewelry with intricate designs"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Lush, green, mossy forest with a digital touch"
+        },
+        {
+            "trait_type": "Technology",
+            "value": "Integrated bioluminescence and digital patterns"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Combination of organic moss, leaves, and metallic components"
+        },
+        {
+            "trait_type": "Environment",
+            "value": "A harmonious blend of nature and technology"
+        }
+    ]
+}

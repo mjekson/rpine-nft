@@ -1,0 +1,51 @@
+{
+    "name": "Digital Blossom #84",
+    "description": "A serene yet powerful figure that embodies the transition between nature and technology. Her platinum hair, adorned with autumn leaves, contrasts against her intricate, cybernetic body armor. With glowing, intricate patterns that seem to connect her to the world around her, she stands in a field that embodies the beauty of fall. Her glowing blue eyes reflect both the peace and potential of her existence within the balance of nature and technology.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/84.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Long and platinum, adorned with autumn leaves"
+        },
+        {
+            "trait_type": "Skin tone",
+            "value": "Fair with glowing cybernetic patterns"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Futuristic armor with plant and autumn leaf accents"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glowing turquoise"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Calm and focused"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Leaf crown, glowing cybernetic enhancements"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Golden fall field with soft sunlight"
+        },
+        {
+            "trait_type": "Technology",
+            "value": "Cybernetic enhancements with a focus on nature integration"
+        },
+        {
+            "trait_type": "Material",
+            "value": "High-tech metallic armor with organic leaf accents"
+        },
+        {
+            "trait_type": "Environment",
+            "value": "Natural autumn landscape infused with glowing technological elements"
+        }
+    ]
+}

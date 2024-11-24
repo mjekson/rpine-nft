@@ -1,0 +1,51 @@
+{
+    "name": "Digital Blossom #89",
+    "description": "The figure is immersed in a vibrant forest, where her glowing green eyes reflect the life force of the natural world around her. She embodies a harmonious fusion of organic and digital elements, with moss and vines interwoven into her skin, creating an intricate connection to nature. Her body is illuminated by strands of bioluminescent energy, symbolizing her deep connection to the environment. This figure represents the intersection of life and technology, as she stands poised and serene amidst the natural world.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/89.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Short, white with hints of moss"
+        },
+        {
+            "trait_type": "Skin tone",
+            "value": "Fair with glowing green elements"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Natural moss and vines woven into the skin"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glowing green"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Serene and focused"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Bioluminescent branches and leaves"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Sunlit forest with soft glowing lights"
+        },
+        {
+            "trait_type": "Technology",
+            "value": "Bioluminescent energy flowing through vines"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Moss, vines, glowing digital threads"
+        },
+        {
+            "trait_type": "Environment",
+            "value": "A seamless blend of nature and digital enhancement"
+        }
+    ]
+}

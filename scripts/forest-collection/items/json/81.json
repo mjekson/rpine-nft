@@ -1,0 +1,51 @@
+{
+    "name": "Luminous Forest Guardian #81",
+    "description": "A captivating character with an ethereal, forest-inspired appearance, illuminated by glowing green accents that intertwine with natural elements. Her hair, woven with luminescent vines, blends seamlessly with the bio-organic armor covering her body. Her pointed ears and glowing facial patterns enhance her mystical presence. The character’s intense gaze reflects wisdom and serenity, while the background shows a softly lit, verdant forest that complements her connection with nature.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/81.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Silver with glowing accents"
+        },
+        {
+            "trait_type": "Skin tone",
+            "value": "Fair with bio-luminescent markings"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Nature-themed, glowing organic armor"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glowing green"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Serene and wise"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Leaf and vine crown, glowing jewelry"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Lush forest with soft, mystical lighting"
+        },
+        {
+            "trait_type": "Technology",
+            "value": "Glowing accents and integrated bio-luminescence"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Soft fabric with organic tech fusion"
+        },
+        {
+            "trait_type": "Environment",
+            "value": "Mystical forest bathed in gentle light"
+        }
+    ]
+}

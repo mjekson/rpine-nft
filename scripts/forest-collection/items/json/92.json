@@ -1,0 +1,51 @@
+{
+    "name": "Digital Blossom #92",
+    "description": "A perfect synthesis of organic beauty and digital technology, this image portrays a figure with a serene, almost otherworldly expression. Her crown, made of lush moss and vibrant leaves, intertwines with glowing circuits, representing a harmony between nature and technology. A blue, electric aura traces her face, emphasizing her connection to the digital realm, while soft glows from her chest highlight the energy flowing within. Her posture, with her eyes gently closed and face tilted upwards, suggests a peaceful, transcendent state, embodying the future of a world where the organic and the digital coexist seamlessly.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/92.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Straight, light-colored, with moss and colorful leaves"
+        },
+        {
+            "trait_type": "Skin tone",
+            "value": "Pale, with glowing digital tattoos"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Integrated with nature and technology"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Closed, illuminated by blue circuitry"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Serene, tranquil"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Moss and leaf crown, glowing digital elements"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Blurred, softly illuminated background"
+        },
+        {
+            "trait_type": "Technology",
+            "value": "Glowing circuits, digital aura"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Organic moss, glowing circuits"
+        },
+        {
+            "trait_type": "Environment",
+            "value": "Futuristic fusion of nature and technology"
+        }
+    ]
+}

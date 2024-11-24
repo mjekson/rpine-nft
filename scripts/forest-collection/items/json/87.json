@@ -1,0 +1,51 @@
+{
+    "name": "Digital Blossom #87",
+    "description": "This ethereal figure blends nature's vibrant energy with futuristic digital enhancements. Her face is illuminated with intricate glowing patterns of plants and constellations, while her moss-covered hair and shoulders are adorned with leaves and vines. The fusion of organic and digital elements reflects a serene yet powerful harmony between the natural world and advanced technology, as the figure gazes into the depths of a mystical forest.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/87.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Braided with glowing plants and moss"
+        },
+        {
+            "trait_type": "Skin tone",
+            "value": "Pale with a greenish, luminescent hue"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Futuristic armor intertwined with vines and moss"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bright green with glowing patterns"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Calm and otherworldly"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Leaves and vines growing from the hair and neck"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Lush, mystical forest with soft, glowing light"
+        },
+        {
+            "trait_type": "Technology",
+            "value": "Bioluminescent patterns and digital overlays"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Organic moss, leaves, and metallic components"
+        },
+        {
+            "trait_type": "Environment",
+            "value": "A tranquil and magical blend of nature and technology"
+        }
+    ]
+}

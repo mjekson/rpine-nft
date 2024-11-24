@@ -1,0 +1,51 @@
+{
+    "name": "Digital Blossom #88",
+    "description": "This striking figure blends the ethereal beauty of nature with glowing digital elements. Her hair is intricately braided with leaves and small flowers, and her face is adorned with glowing patterns that blend seamlessly with the natural world around her. She wears armor made of intertwined vines and foliage, radiating a blend of bioluminescent energy that enhances her otherworldly presence. Her glowing eyes reflect the symbiosis between technology and nature in this serene forest setting.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/88.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Braided with flowers and glowing vines"
+        },
+        {
+            "trait_type": "Skin tone",
+            "value": "Pale with glowing green markings"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Nature-infused armor of vines and foliage"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glowing blue with intricate digital patterns"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Serene, focused, and peaceful"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Floral crown and glowing jewelry"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Lush green forest with vibrant flowers"
+        },
+        {
+            "trait_type": "Technology",
+            "value": "Bioluminescent patterns and digital enhancements"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Natural foliage, glowing vines, and metallic elements"
+        },
+        {
+            "trait_type": "Environment",
+            "value": "A harmonious fusion of nature and digital technology"
+        }
+    ]
+}

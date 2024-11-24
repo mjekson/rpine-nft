@@ -1,0 +1,47 @@
+{
+    "name": "Digital Blossom #93",
+    "description": "This striking image combines elements of organic life with futuristic digital aesthetics. The figure's face is cracked, resembling bark or stone, yet the glowing purple eyes and luminous circuitry suggest an advanced, technological being. The crown of leaves adds a natural, earthy touch, representing a fusion of nature and cybernetics. The surrounding soft glow and earthy tones complement the contrast between nature and artificial intelligence, highlighting the harmonious relationship between these elements in a futuristic world.",
+    "image": "https://raw.githubusercontent.com/r-pine/rpine-nft/master/scripts/forest-collection/items/img/93.png",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Neutral"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Crowned with autumn leaves"
+        },
+        {
+            "trait_type": "Skin tone",
+            "value": "Cracked, bark-like texture"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glowing purple, electric circuitry"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Serene, almost otherworldly"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Moss and vine-like cables"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Autumn forest with soft glowing light"
+        },
+        {
+            "trait_type": "Technology",
+            "value": "Glowing circuits and electric aura"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Leaf crown"
+        },
+        {
+            "trait_type": "Environment",
+            "value": "Futuristic fusion of nature and digital elements"
+        }
+    ]
+}
