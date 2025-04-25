@@ -1,19 +1,19 @@
 {
-    "name": "PX Stake #1",
-    "description": "Stake date: 25.10.2025\nUnstake date: 25.10.2025\nStaked: 100 PX\nReward: 12 PX",
+    "name": "PX Stake #2",
+    "description": "Stake date: 22.22.2222\nUnstake date: 25.10.2025\nStaked: 100 PX\nReward: 12 PX",
     "image": "https://static.notpixel.org/webapp_images/staking/pool_icon_90.gif",
     "attributes": [
         {
             "trait_type": "Unlock Time",
-            "value": "12"
+            "value": "3333333 PX"
         },
         {
             "trait_type": "Interest",
-            "value": "22"
+            "value": "22 PX"
         },
         {
             "trait_type": "Stake size",
-            "value": "34"
+            "value": "34 PX"
         }
     ]
 }
